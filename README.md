@@ -1,6 +1,9 @@
 # Hey there, I’m Aishwaray! 👋
 
-I’m a 20-year-old Computer Science student passionate about coding, machine learning, and open-source development. I’m on a mission to become a Google SDE (STEP 2026) by building impactful projects and contributing to the tech community.
+I’m a 20-year-old Computer Science student at Siksha 'O' Anusandhan University, passionate about coding, machine learning, and open-source development. I’m on a mission to become a Google SDE (STEP 2026) by building impactful projects and contributing to the tech community.
+
+## My Education 
+BTech in Computer Science and Data Science from Siksha 'O' Anusandhan University (2023-2027)
 
 ## My Skills 🛠️
 - **Languages & Frameworks**: Python (5-star on Hackerrank, 150+ problems solved), Flutter, Dart, Django
